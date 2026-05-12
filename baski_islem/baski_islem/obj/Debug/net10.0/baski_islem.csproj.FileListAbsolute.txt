@@ -1,0 +1,14 @@
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\bin\Debug\net10.0\baski_islem.exe
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\bin\Debug\net10.0\baski_islem.deps.json
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\bin\Debug\net10.0\baski_islem.runtimeconfig.json
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\bin\Debug\net10.0\baski_islem.dll
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\bin\Debug\net10.0\baski_islem.pdb
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\baski_islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\baski_islem.AssemblyInfoInputs.cache
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\baski_islem.AssemblyInfo.cs
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\baski_islem.csproj.CoreCompileInputs.cache
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\baski_islem.dll
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\refint\baski_islem.dll
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\baski_islem.pdb
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\baski_islem.genruntimeconfig.cache
+C:\Users\hatic\Desktop\nesne_tabanli_programlama\baski_islem\baski_islem\obj\Debug\net10.0\ref\baski_islem.dll
