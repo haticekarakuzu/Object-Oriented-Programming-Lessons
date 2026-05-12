@@ -1,0 +1,14 @@
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\bin\Debug\net10.0\kitap_kiralama.exe
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\bin\Debug\net10.0\kitap_kiralama.deps.json
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\bin\Debug\net10.0\kitap_kiralama.runtimeconfig.json
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\bin\Debug\net10.0\kitap_kiralama.dll
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\bin\Debug\net10.0\kitap_kiralama.pdb
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\kitap_kiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\kitap_kiralama.AssemblyInfoInputs.cache
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\kitap_kiralama.AssemblyInfo.cs
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\kitap_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\kitap_kiralama.dll
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\refint\kitap_kiralama.dll
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\kitap_kiralama.pdb
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\kitap_kiralama.genruntimeconfig.cache
+C:\Users\hatic\Desktop\kitap_kiralama\kitap_kiralama\kitap_kiralama\obj\Debug\net10.0\ref\kitap_kiralama.dll
